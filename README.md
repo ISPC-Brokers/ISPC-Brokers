@@ -55,6 +55,5 @@ Este proyecto ha sido desarrollado por los estudiantes del módulo de Programado
 - Cristian Vellio
 - Fernando Rey
 - Mauricio Nahuel Pucheta
-- Nahir Nicolás Ñañez 
 - Paula Denise Sarmiento
 - Santiago Rosso
