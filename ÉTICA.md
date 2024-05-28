@@ -2,19 +2,22 @@ _1. Describir cómo el grupo se conforma como instrumento legal (Empresa, Socios
 
 Esta empresa es un sector de ISPC CBA que se dedica al desarrollo de proyectos informáticos y comprende como socios a los siguientes integrantes:
 
-- Santiago Rosso, COORDINADOR
-- Cristian Vellio
-- Fernando Rey
-- Mauricio Nahuel Pucheta
-- Paula Denise Sarmiento
+- Santiago Rosso, Programador COORDINADOR
+- Cristian Vellio, Programador y Relevamiento
+- Fernando Rey Programador, 
+- Mauricio Nahuel Pucheta, Programador y Testing
+- Paula Denise Sarmiento, Programador
 
 Nos registramos bajo la razón social ISPC BROKERS DATA SECTOR S.R.L. y nos matriculamos ante el Consejo Profesional de Ciencias Informáticas de la provincia de Córdoba bajo el marco legal de la  Ley 7642 del Ejercicio Profesional de Ciencias Informaticas acreditando todos los items en el artículo 15 de la ley enunciada anteriormente.
 
-_Nuestro contrato se encuentra en el Anexo._
+Los socios fundadores deben acordar los términos y condiciones de su relación, incluyendo la distribución de acciones o participaciones, los derechos y obligaciones de cada socio y las cláusulas de salida.
+
+Se recomienda redactar un contrato de accionistas o socios que establezca las reglas de funcionamiento interno, la toma de decisiones, las poíticas de la empresa y los procedimientos internos.
 
 _2. Describir que requerimientos deben cumplir el código programado y las bases de datos según la legislación vigente._
 
-En Argentina, los requerimientos que debe cumplir el código programado y las bases de datos están principalmente establecidos en la Ley Nacional de Protección de Datos Personales (Ley N° 25.326)
+El código programado debe cumplir con las leyes de propiedad intelectual y no infringir derechos de autor. Las bases de datos deben cumplir con las regulaciones de protección de datos personales y garantizar la privacidad de los usuarios.
+Los requerimientos que debe cumplir el código programado y las bases de datos están principalmente establecidos en la Ley Nacional de Protección de Datos Personales (Ley N° 25.326)
 
 - Calidad de los datos y Consentimiento
 
@@ -96,11 +99,11 @@ En ambos casos, si el escribano no pertenece a la Ciudad de Buenos Aires, su fir
 
 Paso a Paso:
 
-1. Ingresá a TAD-Inscripción de obra publicada – Software e iniciá el trámite.
-2. Completá los datos requeridos.
-3. Subí la documentación obligatoria y complementaria.
+1. Ingresar a TAD-Inscripción de obra publicada – Software e iniciá el trámite.
+2. Completar los datos requeridos.
+3. Subie la documentación obligatoria y complementaria.
 4. El sistema te otorgará un número de expediente electrónico, anotalo y tenelo presente para cualquier consulta posterior en la DNDA. Si elegiste la opción Modo de Depósito Digital “NO”, entonces leé el detalle del punto 5 a continuación. Si elegiste la opción Modo de Depósito Digital “SI”, leé el punto 6.
-5. Si elegiste la opción Modo de Depósito Digital “NO” dentro del Expediente generado encontrarás dos archivos para descargar (carátula variable y carátula del expediente). Para finalizar el trámite, deberás presentar o enviar la obra y la impresión de las dos carátulas a las sedes de la Dirección Nacional del Derecho de Autor: Sede Central o Sede La Plata.
+5. Si se elige la opción Modo de Depósito Digital “NO” dentro del Expediente generado encontrarás dos archivos para descargar (carátula variable y carátula del expediente). Para finalizar el trámite, deberás presentar o enviar la obra y la impresión de las dos carátulas a las sedes de la Dirección Nacional del Derecho de Autor: Sede Central o Sede La Plata.
 6. Si elegiste la opción Modo de Depósito Digital “SI”, una vez iniciado el expediente recibirás una comunicación en la cual se te detallará el procedimiento para la carga digital de la obra.
 
 Costo del trámite: $2500.00 más tasa legal
@@ -111,9 +114,33 @@ A su vez el **ARTICULO 21** (Registro de archivos de datos. Inscripción) de la 
 
 _4.  Si un integrante del grupo no realiza el trámite de matriculación, que pena le corresponde a nivel provincial._
 
-Si alguno de los integrantes no se matricula estará ejerciendo de manera ilegal la profesión y segun el artículo 36 del Estatuto del consejo Profesional de Ciencias Informáticas, se labrará un sumario prevencional tendiente a calificar la conducta del encartado a fin que pueda ejercer su derecho a defensa. Se aplicarán los artículos 66 y 67 de la ley 7642 en correspondiente, aplicando o no las multas pertinentes y sanciones del artículo 68. 
+Si alguno de los integrantes no se matricula estará ejerciendo de manera ilegal la profesión y segun el artículo 36 del Estatuto del consejo Profesional de Ciencias Informáticas, se labrará un sumario prevencional tendiente a calificar la conducta del encartado a fin que pueda ejercer su derecho a defensa. Se aplicarán los artículos 66 y 67 de la ley 7642 en correspondiente, aplicando o no las multas pertinentes y sanciones del artículo 68.
+
+Penalidades por Falta de Matriculación: Si un integrante no se matricula, podría enfrentar multas o sanciones administrativas a nivel provincial:
+
+Multas Administrativas: La autoridad competente puede imponer multas económicas al individuo o a la empresa. Estas multas varían según la gravedad de la infracción y pueden afectar significativamente las finanzas de la empresa.
+
+Inhabilitación Temporal o Permanente: Además de las multas, el integrante no matriculado puede enfrentar una inhabilitación temporal o permanente para ejercer la profesión. Esto significa que no podrá trabajar como programador o profesional de informática durante el período de inhabilitación.
+
+Rechazo de Contrataciones o Proyectos: Las empresas y clientes pueden negarse a contratar a ARGBroker o a sus integrantes si no están debidamente matriculados. La falta de matriculación puede generar desconfianza y afectar la reputación de la empresa.
 
 _5. Si el código es replicado, describir como la Ley de Propiedad Intelectual puede salvaguardar a ARGBroker._
+
+La Ley de Propiedad Intelectual(LEY 11723) protege el código original de ISPC-BROKERS, la Ley otorga derechos de autor a los creadores de obras originales, incluido el código fuente. Cuando un programador o equipo de desarrollo crea un código desde cero, automáticamente se convierte en el titular de los derechos de autor sobre ese código.
+
+No es necesario registrar el código en una oficina de derechos de autor para que esté protegido. La protección es automática desde el momento en que se crea la obra. Sin embargo, registrar el código puede proporcionar evidencia adicional en caso de disputas legales.
+
+Infracción y Defensa: Si alguien replica, copia o utiliza sin permiso el código de ARGBroker, se considera una infracción de derechos de autor. ARGBroker puede tomar medidas legales, como enviar notificaciones de cese y desista, presentar demandas o buscar acuerdos.
+
+Licencias y Compartir Código: ARGBroker puede otorgar licencias a otros para usar su código bajo ciertas condiciones. Las licencias pueden ser abiertas (como las licencias de código abierto) o privadas (acuerdos personalizados).
+
+Código Fuente vs. Código Objeto: La protección de derechos de autor se aplica al código fuente, no al código compilado (código objeto). El código fuente es más valioso en términos de propiedad intelectual.
+
+Colaboración y Derechos Compartidos: Si varios programadores contribuyen al código de ARGBroker, es importante definir acuerdos de colaboración y asignación de derechos. Los contratos o acuerdos internos deben especificar cómo se comparten los derechos de autor.
+
+Licencias de Software de Terceros: ARGBroker también debe considerar las licencias de software de terceros que utiliza en su código. Algunas licencias pueden afectar la distribución y el uso del código.
+
+Si alguien replica el código sin autorización, ARGBroker puede tomar medidas legales.
 
 El artículo 9 de la Ley 11723 establece: 
 
@@ -188,6 +215,7 @@ _10. Si los datos de la base de datos son adulterados de manera externa, a nivel
 Como señalamos anteriormente, el Convenio de Budapest puede respaldar legalmente a ARGBroker en el ámbito internacional. El convenio incluye la protección de datos, la seguridad informática, la interferencia ilegal en sistemas informáticos, el acceso no autorizado a datos y otros delitos informáticos.
 
 _11. Cuando los programadores de ARGBroker incurren en una negligencia, a que instrumento legal se acude y quien._
+En caso de negligencia, se puede recurrir a la responsabilidad contractual o extracontractual según las circunstancias.
 
 El Tribunal Arbitral y de Disciplina ejercerá el poder disciplinario sobre todos los profesionales matriculados del Consejo Profesional para lo que conocerá y juzgará según las normas del Código de Ética, las faltas cometidas por los profesionales en el ejercicio de la profesión o contra el decoro de éstos, o contra las disposiciones y jerarquías del ConsejoProfesional.
 
@@ -215,105 +243,11 @@ _14. Si un usuario denuncia a ARGBroker por divulgación de sus datos personales
 
 Recurrió a la **Ley 25.326 Protección de los Datos Personales,** pero a su vez ARGBroker está respaldada por sus derechos de autor ya que se encuentra inscripta en la DNDA según la Ley 11723 de Propiedad Intelectual.
 
-ANEXO CONTRATO
+Notificación y Registro de la Denuncia: ARGBroker debe recibir formalmente la denuncia del usuario. Esto puede ocurrir a través de una comunicación escrita (correo electrónico, carta) o una denuncia verbal. La empresa debe registrar la denuncia, incluyendo detalles como la fecha, el nombre del denunciante y la naturaleza de la acusación.
 
-CONTRATO DE DESARROLLO DE SOFTWARE ENTRE ISPC CBA E ISPC BROKERS DATA SECTOR
+Investigación Interna: ARGBroker debe llevar a cabo una investigación interna para comprender los hechos y evaluar la validez de la denuncia. Esto implica revisar registros, comunicaciones y cualquier evidencia relevante.
 
-En Córdoba, a……….de …………de …….
+Contacto con el Denunciante: ARGBroker debe comunicarse con el denunciante para obtener más información y aclarar los detalles de la denuncia. Es importante tratar al denunciante con respeto y consideración.
 
-*COMPARECEN*
+Evaluación Legal: La empresa debe consultar con su equipo legal para evaluar la situación. Esto incluye determinar si la denuncia tiene fundamento y si se ha infringido alguna ley o regulación.
 
-De una parte, la empresa tecnológica ISPC CBA, inscripta como broker de bolsa para ser intermediario entre los inversores y la Bolsa de Valores de Buenos Aires MERVAL.,
-
-De otra parte, ISPC BROKERS DATA SECTOR, inscrita en el Consejo Profesional de Ciencias Informáticas y en su nombre y representación SANTIAGO ROSSO actuando en calidad de coordinador con D.N.I 41032749.
-
-*MANIFIESTAN*
-
-I.- Que ISPC BROKERS DATA SECTOR tiene experiencia en el desarrollo de software.
-
-II.- Que ambas partes están interesadas en suscribir el presente contrato, con el objeto de que ISPC BROKERS DATA SECTOR cree una aplicación informática/software a medida de las necesidades de la Empresa.
-
-Por lo que, reconociéndose mutuamente la capacidad y representación con que actúan, ambas partes otorgan el presente CONTRATO DE DESARROLLO DE SOFTWARE que se regirá por las siguientes
-
-*CLÁUSULAS*
-
-**PRIMERA.- Objeto del contrato**
-
-El presente contrato tiene por objeto el desarrollo, por parte de ISPC BROKERS DATA SECTOR de una aplicación, ARGBroker Demo, para realizar las transacciones entre los inversores (personas físicas, empresas o instituciones) y otros inversores dentro del Mercado de Valores de Buenos Aires (Merval).
-
-**SEGUNDA.- Fases de desarrollo**
-
-El desarrollo del programa objeto del presente contrato, cuenta con las siguientes fases:
-
-En la fase de análisis el objetivo es brindar un esquema de la aplicación mediante el diseño de la base de datos de la misma con su respectiva documentación.
-
-En la fase de programación, la aplicación contará con una versión demo (simulación de compra y venta en la bolsa) que tendrá las siguientes funcionalidades:
-
-1- Partir de un saldo inicial de $1.000.000 (que se asigna al momento de crear un nuevo
-usuario/inversor).
-2- Brindar un panel para consultar las cotizaciones de las acciones de empresas
-Argentinas. Dicho panel deberá mostrar los siguientes datos para cada símbolo/título de
-acción:
-
-- Símbolo y nombre de la empresa de la acción. Ej.: (ALUA) Aluminio Argentino S.A
-- Último Operado
-- Cantidad Compra diaria
-- Precio de Compra actual
-- Precio Venta actual
-- Cantidad Venta diaria
-- Apertura (precio de la acción al momento de empezar la operación diaria en la bolsa)
-- Mínimo diario
-- Máximo diario
-- Último Cierre.
-
-**TERCERA.- Duración**
-
-La duración del presente contrato será de 60 días contados a partir de la fecha de la firma del mismo, pudiendo prorrogarse por acuerdo expreso de las partes si consideran oportuna su prosecución para el buen fin del mismo.
-
-**CUARTA.- Lugar de prestación del servicio.**
-
-El desarrollo del programa objeto del presente contrato se efectuará en las instalaciones de ISPC CBA.
-En el caso de que el equipo de trabajo ISPC BROKERS DATA SECTOR necesitara acudir a las instalaciones de la Empresa, ésta se compromete a facilitar el acceso a sus locales y oficinas, suministrándole cuanta información relacionada con el desarrollo del programa en cuestión le sea requerida.
-
-**QUINTA.- Precio** 
-
-El precio total convenido a pagar por la empresa es de USD 100000 incrementados con el IVA correspondiente.
-
-**SEXTA.- Confidencialidad**
-
-Cada una de las partes se compromete a no difundir, bajo ningún aspecto, la información científica o técnica perteneciente a la otra parte a la que haya podido tener acceso en el desarrollo del presente contrato.
-
-Los datos e informes obtenidos durante la realización del presente contrato, así como los resultados finales, tendrán carácter confidencial.
-
-Ambas partes se comprometen a que todo el personal participante en el desarrollo del contrato conozca y observe el compromiso de confidencialidad regulado por esta cláusula.
-
-**SÉPTIMA.- Propiedad de resultados**
-
-Los derechos de explotación de la propiedad intelectual, incluyendo de manera expresa, el derecho de reproducción, transformación, distribución y comunicación pública, corresponden de manera exclusiva a ISPC BROKERS DATA SECTOR
-
-ISPC BROKERS DATA SECTOR podrá llevar a cabo, en su nombre, la protección del software desarrollado ante el Registro de Propiedad Intelectual.
-
-En todo caso, el titular de los derechos de explotación (ISPC BROKERS DATA SECTOR) deberá reconocer y respetar los derechos morales inherentes a los autores del programa, en especial el derecho a ser designados como autores del mismo.
-
-Dichos derechos protegen tanto el programa de ordenador que pueda resultar como los datos, listados, diagramas y esquemas elaborados en la fase de análisis, el manual de aplicación, los restantes datos y materiales de apoyo, los símbolos de identificación, las reproducciones originales de los mismos, cualquier copia parcial o total realizada por la propia empresa, los derechos legales de copia, las patentes, las marcas, los secretos comerciales y cualquier otro que pueda surgir en cumplimiento del presente contrato.
-
-**OCTAVA.- Responsabilidades**
-
-ISPC BROKERS DATA SECTOR no será responsable de las pérdidas o daños sufridos por la Empresa, sus empleados o clientes, directa o indirectamente originados por errores en el programa.
-
-**NOVENA.- Actividades Adicionales**
-
-Cualquier actividad adicional relacionada con el software desarrollado, tales como mantenimiento, ampliaciones y/o modificaciones, quedarán fijadas documentalmente en un nuevo contrato.
-
-**DÉCIMA.-Modificación y Resolución del Contrato**
-
-Las partes podrán modificar el presente contrato en cualquier momento por mutuo acuerdo y por escrito, dentro del periodo de vigencia del mismo.
-
-El presente contrato podrá resolverse por las siguientes causas:
-
-1.- Por mutuo acuerdo de las partes.
-2.- Por caso fortuito o fuerza mayor.
-3.- Por incumplimiento de las obligaciones.
-
-Cuando una de las partes considere que la otra parte está incumpliendo los compromisos adquiridos en el presente contrato se lo notificará, mediante método de comunicación fehaciente, e indicará las causas que originan dicho incumplimiento. La otra parte deberá subsanar dicha situación en un plazo de 30 días, a contar desde la fecha de recepción de la notificación.
-En caso de no subsanación por la parte incumplidora, la otra parte podrá resolver este contrato, y se valorará el trabajo realizado hasta el momento, los gastos comprometidos, y los daños y perjuicios causados por dicho incumplimiento. Esta valoración nunca superará la cuantía económica total de este contrato.
