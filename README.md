@@ -25,9 +25,9 @@ El proyecto incluye el diseño del sistema en términos de clases y relaciones, 
 ## Nomenclatura
 
 Para el desarrollo del proyecto, se ha acordado la siguiente nomenclatura:
-- Clases: Nombres en CamelCase (por ejemplo, `Usuario`, `Accion`, `Transaccion`).
-- Atributos: Nombres en snake_case (por ejemplo, `saldo_inicial`, `precio_compra`).
-- Métodos: Nombres en snake_case (por ejemplo, `crear_usuario`, `consultar_cotizaciones`).
+- Clases: Nombres en camelCase (por ejemplo, `Usuario`, `Accion`, `Transaccion`).
+- Atributos: Nombres en camelCase (por ejemplo, `saldoInicial`, `precioCompra`).
+- Métodos: Nombres en camelCase (por ejemplo, `crearUsuario`, `consultarCotizaciones`).
 
 ## Diseño del Sistema
 
@@ -57,5 +57,6 @@ Este proyecto ha sido desarrollado por los estudiantes del módulo de Programado
 - Mauricio Nahuel Pucheta
 - Paula Denise Sarmiento
 - Santiago Rosso
+- Fausto Suarez Mora
 
 
