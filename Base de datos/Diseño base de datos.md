@@ -100,3 +100,9 @@ Como tercera instancia, realizamos la determinación de las relaciones y su resp
  1) id_empresa (PK): Para representar a la empresa.
  2) Nombre: De dicha empresa.
  3) Acciones: Que emite dicha empresa.
+
+Imagen Modelo Relacional:
+![image](https://github.com/ISPC-Brokers/ISPC-Brokers/assets/170479459/be579cc6-7dda-468f-839e-9c5c01d5fd56)
+
+Link:
+https://drive.google.com/file/d/1Xxxs5sX7BQe8MXoQpbgK2fPm8O2aFrhk/view?usp=drive_link
