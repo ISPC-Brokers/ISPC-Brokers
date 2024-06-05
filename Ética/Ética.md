@@ -7,6 +7,7 @@ Esta empresa es un sector de ISPC CBA que se dedica al desarrollo de proyectos i
 - Fernando Rey Programador, 
 - Mauricio Nahuel Pucheta, Programador y Testing
 - Paula Denise Sarmiento, Programador
+- Fausto Suarez Mora, Programador
 
 Nos registramos bajo la razón social ISPC BROKERS DATA SECTOR S.R.L. y nos matriculamos ante el Consejo Profesional de Ciencias Informáticas de la provincia de Córdoba bajo el marco legal de la  Ley 7642 del Ejercicio Profesional de Ciencias Informaticas acreditando todos los items en el artículo 15 de la ley enunciada anteriormente.
 
